@@ -9,8 +9,7 @@ EDA(exploratory data analysis) - due by 2/19/2018
 
 Feature Selection - due by 2/26/2018
 
-Modeling(OLS Regression) - due by 3/4/2018
-
+Modeling(OLS Regression) - due by 3/4/2018  # OLS - "https://en.wikipedia.org/wiki/Ordinary_least_squares"
 
 Project presentation - due by 3/5/2018
 
