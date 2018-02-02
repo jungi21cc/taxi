@@ -17,10 +17,10 @@ Project presentation - due by 3/5/2018
 presentation due by 3/7/2018
 
 
-카카오모빌리티 채용
-[관계사] 카카오모빌리티 Data Intelligence 모집
+카카오모빌리티 채용 \n
+[관계사] 카카오모빌리티 Data Intelligence 모집 \n
 https://careers.kakao.com/jobs/S-110?part=TECHNOLOGY&keyword=모빌리티&skilset=&page=1
 
 
-[관계사] 카카오모빌리티 Operations Research 모집
+[관계사] 카카오모빌리티 Operations Research 모집 \n
 https://careers.kakao.com/jobs/S-111?part=TECHNOLOGY&keyword=%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0&skilset=&page=1
