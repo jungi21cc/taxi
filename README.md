@@ -3,11 +3,13 @@ kaggle project - New York City Taxi Trip Duration
 
 https://www.kaggle.com/c/nyc-taxi-trip-duration/kernels
 
+------------------------------------------------------------------------------------
+
 Fastcampus group project 1
 
-EDA(exploratory data analysis) - due by 2/19/2018
+EDA(exploratory data analysis) - due by 2/19/2018 # EDA - "https://en.wikipedia.org/wiki/Exploratory_data_analysis"
 
-Feature Selection - due by 2/26/2018
+Feature Selection - due by 2/26/2018 #feature selection - "https://en.wikipedia.org/wiki/Feature_selection"
 
 Modeling(OLS Regression) - due by 3/4/2018  # OLS - "https://en.wikipedia.org/wiki/Ordinary_least_squares"
 
