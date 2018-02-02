@@ -16,6 +16,20 @@ Project presentation - due by 3/5/2018
 
 presentation due by 3/7/2018
 
+--------------------------------------------------------------------------------------
+
+Sprint in Agile Project Management
+
+1)
+
+https://brunch.co.kr/@insuk/13
+
+2)
+
+https://brunch.co.kr/@insuk/14
+
+
+---------------------------------------------------------------------------------------
 
 카카오모빌리티 채용
 
