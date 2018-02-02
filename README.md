@@ -17,6 +17,12 @@ Project presentation - due by 3/5/2018
 
 presentation due by 3/7/2018
 
+-------------------------------------------------------------------------------------
+
+Data analysis pipeline 
+
+https://www.researchgate.net/figure/Fig-1-Big-Data-analysis-pipeline-showing-the-role-of-Data-visualization-and-human-collaboration_282815733_fig1
+
 --------------------------------------------------------------------------------------
 
 Sprint in Agile Project Management
