@@ -1,3 +1,5 @@
+# Kaggle : New York City Trip Duration
+
 ### 개요
 - NYC Taxi의 데이터를 사용하여 뉴욕시의 택시여행시간을 예측
 - RMSLE를 통한 분류모델 평가
